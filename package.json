@@ -1,0 +1,11 @@
+{
+  "name": "clon_google",
+  "version": "1.0.0",
+  "description": "vamos a hacer una clon de google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanbega",
+  "license": "ISC"
+}
